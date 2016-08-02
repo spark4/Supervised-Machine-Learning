@@ -4,25 +4,29 @@ This is a project that I completed in 6.0002 at MIT. The project was implemented
 ## Breakdown of the Project
 The project explores four core topics in machine learning: data preparation, supervised learning, evaluation, and model improvement.
 
-**Part 1: data pre-processing.** 
+- **Part 1: data pre-processing.** 
+
 I created functions to partition the dataset into training and evaluation subsets.
 
 
 
-**Part 2: use test data to train the model using a supervised approach.**
+- **Part 2: use test data to train the model using a supervised approach.**
+
 I also used the model to make predictions and score labeled evaluation data.**
 
 
 
-**Part 3: performance metrics and data visualization. 
+- **Part 3: performance metrics and data visualization.** 
+
 I created plots! You can visualize the model now!
 
 
 
-**Part 4: feature reduction/elimination.** 
+- **Part 4: feature reduction/elimination.** 
+
 I utilized stochastic methods to optimize the model performance.
 
 
 
-**Part 5: Runs the simulation.**
+- **Part 5: Runs the simulation.**
 
