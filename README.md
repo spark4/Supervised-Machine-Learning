@@ -24,7 +24,7 @@ The project explores four core topics in machine learning: data preparation, sup
 
 - **Part 4: feature reduction/elimination.** 
 
-  I utilized stochastic methods to optimize the model performance.
+  I optimize for accuracy and eliminated features that most improved accuracy.
 
 
 
